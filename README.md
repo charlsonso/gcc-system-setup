@@ -23,6 +23,7 @@ GCC Robotics designs and implements robots to learn skills in computer science, 
 - [ ] LIDAR mounting
 - [ ] Implementation of Protobuf messages
 - [ ] Organize libariries to fit into Arduino
+- [ ] Watchdog
 
 ## List of GCC Software Modules
 #### [gcc-motor-control](https://github.com/so0p/gcc-motor-control)
