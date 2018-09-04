@@ -32,4 +32,4 @@ Web Interface for Rover
 #### [gcc-joystick](https://github.com/so0p/gcc-joystick)
 Joystick Controller
 #### [gcc-command-server](https://github.com/so0p/gcc-command-center)
-ROS based Rover OS
+ROS Node Library for ROVER OS
